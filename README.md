@@ -21,4 +21,4 @@
 
 ## Дополнительные материалы:
 Документация - https://react-spring.dev/docs/components/use-transition  
-Видео - 
+Видео - https://youtube.com/shorts/rVCjzY7d7ZI?feature=share
