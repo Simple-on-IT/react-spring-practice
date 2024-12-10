@@ -1,0 +1,21 @@
+.image {
+  border-radius: 5px;
+
+  width: 100%;
+  box-sizing: border-box;
+
+  object-fit: cover;
+  object-position: center center;
+  overflow: hidden;
+}
+
+.text {
+  text-align: center;
+  overflow: hidden;
+}
+
+.chainContainer {
+  text-align: center;
+  padding: 50px;
+  font-family: "Arial", sans-serif;
+}
